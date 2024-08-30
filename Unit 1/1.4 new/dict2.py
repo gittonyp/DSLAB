@@ -1,5 +1,6 @@
 str=input()
-
+str=str.lower
+str=str.split()
 dicp={}
 
 for i in str:
