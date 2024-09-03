@@ -1,0 +1,10 @@
+1. Pandas:
+Pandas is a powerful library for data manipulation and analysis in Python. It provides data structures like DataFrames and Series that make it easy to work with structured data. Pandas offers functions for reading and writing data, handling missing values, and performing operations like merging, grouping, and aggregating. It's widely used for data cleaning and preprocessing tasks, making it a fundamental tool for any data science workflow.
+2. NumPy:
+NumPy (Numerical Python) is a library that provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. It forms the foundation for many other data science libraries by offering efficient array operations and mathematical functions, which are essential for numerical computations and data manipulation.
+3. Scikit-learn:
+Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It includes a wide range of algorithms for classification, regression, clustering, and dimensionality reduction. Scikit-learn also offers tools for model selection and evaluation, making it a go-to library for implementing and testing machine learning models.
+4. Matplotlib:
+Matplotlib is a plotting library for Python that enables users to create static, animated, and interactive visualizations. It provides a flexible interface for generating various types of plots, including line charts, bar graphs, histograms, and scatter plots. Matplotlib is often used to visualize data, explore relationships, and present results in a clear and understandable way.
+5. TensorFlow:
+TensorFlow is an open-source machine learning framework developed by Google. It is widely used for building and deploying deep learning models. TensorFlow supports a range of tasks from training neural networks to deploying models in production environments. It provides tools for designing complex neural networks and offers extensive support for numerical computations and parallel processing, making it suitable for large-scale machine learning projects.
