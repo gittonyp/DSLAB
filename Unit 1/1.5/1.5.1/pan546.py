@@ -1,5 +1,6 @@
 
 import pandas as pd
+import numpy as np
 
 
 
@@ -9,6 +10,4 @@ data = {
     }
 
 a=pd.DataFrame(data)
-print(a)
-a.sort_values()
 print(a)

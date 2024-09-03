@@ -1,4 +1,3 @@
-from test_pycosat import nvars1
 
 n=0
 n2=1
