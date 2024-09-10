@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ABC PQR",
+    "age": 30,
+    "isStudent": false,
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL"
+    ],
+    "address": {
+      "street": "123 Main Road",
+      "city": "Pune",
+      "state": "MH"
+    }
+  },
+  {
+    "name": "XYZ PQR",
+    "age": 20,
+    "isStudent": true,
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "Python"
+    ],
+    "address": {
+      "street": "124 Main Road",
+      "city": "Pune",
+      "state": "MH"
+    }
+  }
+]
